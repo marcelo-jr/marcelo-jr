@@ -10,5 +10,5 @@ My name is Marcelo i'm 19 years old from São Paulo, Brasil
 
 I really love programming 💻, photography 📷 and reading 📖.
 
-Im actually studying Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="15px" height="15px"> more (specifically Scikit Learn) and Flutter <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="15px" height="15px">
+Im actually studying Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20px" height="20px"> more (specifically Scikit Learn) and Flutter <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20px" height="20px">
 
