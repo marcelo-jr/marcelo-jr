@@ -2,7 +2,9 @@
 
 ### <b>Heeeello </b>👋
 
-My name is Marcelo i'm 19 years old <s>(and my quest is to seek the holy grail 🐦)</s>
+My name is Marcelo i'm 19 years old from São Paulo, Brasil
+
+<i>Is this an European or an African swallow?</i> 🐦
 
 I'm a web and mobile developer intern in Alphacode IT Solutions.
 
