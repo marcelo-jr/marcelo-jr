@@ -6,7 +6,7 @@ My name is Marcelo i'm 19 years old from São Paulo, Brasil
 
 <i>Is it an European or African swallow?</i> 🐦
 
-🔨 I'm a web and mobile developer intern in Alphacode IT Solutions.
+🔨 I'm a web and mobile developer in Alphacode IT Solutions.
 
 I really love programming 💻, photography 📷 and reading 📖.
 
