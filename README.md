@@ -18,3 +18,6 @@ The programming language that i have most experience with is PHP <a href="https:
 If you want to reach me, you can connect with me in <a href = "https://www.linkedin.com/in/marcelo-junior/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20px" height="20px"></a>
 
 <i> “The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”</i> - <b>Stephen Hawking</b>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcelo-jr&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
