@@ -10,7 +10,7 @@ My name is Marcelo i'm 20 years old from São Paulo, Brasil
 
 I really love programming 💻, photography 📷 and reading 📖.
 
-Im currently studying Ruby <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="20px" height="20px"></a> (more specificaly Rails <a href="https://rubyonrails.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original.svg")</a> and Flutter <a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20px" height="20px"></a>
+Im currently studying Ruby <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="20px" height="20px"></a> (more specificaly Rails <a href="https://rubyonrails.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" width="20px" height="20px"></a>) and React <a href="https://react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px" height="20px"></a>
 
 The programming language that i have most experience with is PHP <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20px" height="20px"></a> and JS <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20px" height="20px"></a>
 
