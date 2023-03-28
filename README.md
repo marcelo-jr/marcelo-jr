@@ -20,4 +20,4 @@ If you want to reach me, you can connect with me in <a href = "https://www.linke
 <i> “The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”</i> - <b>Stephen Hawking</b>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcelo-jr&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcelo-jr&show_icons=true&theme=great-gatsby" alt="marcelo-jr" />
